@@ -1,0 +1,479 @@
+ticket,sector,subsector,segment
+RRRP.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+CSAN.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+DMMO.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+ENAT.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+RPMG.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+PETR.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+RECV.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+PRIO.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+UGPA.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+VBBR.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+LUPA.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+OPCT.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+OSXB.SA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+AURA.SA,Materiais Básicos,Mineração,Minerais Metálicos
+BRAP.SA,Materiais Básicos,Mineração,Minerais Metálicos
+CBAV.SA,Materiais Básicos,Mineração,Minerais Metálicos
+CMIN.SA,Materiais Básicos,Mineração,Minerais Metálicos
+LTEL.SA,Materiais Básicos,Mineração,Minerais Metálicos
+LTLA.SA,Materiais Básicos,Mineração,Minerais Metálicos
+MMXM.SA,Materiais Básicos,Mineração,Minerais Metálicos
+VALE.SA,Materiais Básicos,Mineração,Minerais Metálicos
+FESA.SA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+GGBR.SA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+GOAU.SA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+CSNA.SA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+USIM.SA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+MGEL.SA,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+PATI.SA,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+TKNO.SA,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+PMAM.SA,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Cobre
+DEXP.SA,Materiais Básicos,Químicos,Petroquímicos
+BRKM.SA,Materiais Básicos,Químicos,Petroquímicos
+FHER.SA,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+NUTR.SA,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+VITT.SA,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+CRPG.SA,Materiais Básicos,Químicos,Químicos Diversos
+UNIP.SA,Materiais Básicos,Químicos,Químicos Diversos
+EUCA.SA,Materiais Básicos,Madeira e Papel,Madeira
+DXCO.SA,Materiais Básicos,Madeira e Papel,Madeira
+KLBN.SA,Materiais Básicos,Madeira e Papel,Papel e Celulose
+MSPA.SA,Materiais Básicos,Madeira e Papel,Papel e Celulose
+NEMO.SA,Materiais Básicos,Madeira e Papel,Papel e Celulose
+SUZB.SA,Materiais Básicos,Madeira e Papel,Papel e Celulose
+RANI.SA,Materiais Básicos,Embalagens,Embalagens
+MTIG.SA,Materiais Básicos,Embalagens,Embalagens
+SNSY.SA,Materiais Básicos,Materiais Diversos,Materiais Diversos
+ETER.SA,Bens Industriais,Construção e Engenharia,Produtos para Construção
+HAGA.SA,Bens Industriais,Construção e Engenharia,Produtos para Construção
+PTBL.SA,Bens Industriais,Construção e Engenharia,Produtos para Construção
+AZEV.SA,Bens Industriais,Construção e Engenharia,Construção Pesada
+SOND.SA,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+TCNO.SA,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+EMBR.SA,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+FRAS.SA,Bens Industriais,Material de Transporte,Material Rodoviário
+POMO.SA,Bens Industriais,Material de Transporte,Material Rodoviário
+RAPT.SA,Bens Industriais,Material de Transporte,Material Rodoviário
+RCSL.SA,Bens Industriais,Material de Transporte,Material Rodoviário
+RSUL.SA,Bens Industriais,Material de Transporte,Material Rodoviário
+TUPY.SA,Bens Industriais,Material de Transporte,Material Rodoviário
+MWET.SA,Bens Industriais,Material de Transporte,Material Rodoviário
+SHUL.SA,Bens Industriais,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+WEGE.SA,Bens Industriais,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+EALT.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+AERI.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+ARML.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+BDLL.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+ROMI.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+INEP.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+KEPL.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+FRIO.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+MILS.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+NORD.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+PTCA.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+MTSA.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+STTR.SA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+TASA.SA,Bens Industriais,Máquinas e Equipamentos,Armas e Munições
+AZUL.SA,Bens Industriais,Transporte,Transporte Aéreo
+GOLL.SA,Bens Industriais,Transporte,Transporte Aéreo
+FRRN.SA,Bens Industriais,Transporte,Transporte Ferroviário
+GASC.SA,Bens Industriais,Transporte,Transporte Ferroviário
+VSPT.SA,Bens Industriais,Transporte,Transporte Ferroviário
+MRSA.SA,Bens Industriais,Transporte,Transporte Ferroviário
+RAIL.SA,Bens Industriais,Transporte,Transporte Ferroviário
+HBSA.SA,Bens Industriais,Transporte,Transporte Hidroviário
+LOGN.SA,Bens Industriais,Transporte,Transporte Hidroviário
+LUXM.SA,Bens Industriais,Transporte,Transporte Hidroviário
+JSLG.SA,Bens Industriais,Transporte,Transporte Rodoviário
+TGMA.SA,Bens Industriais,Transporte,Transporte Rodoviário
+ANHB.SA,Bens Industriais,Transporte,Exploração de Rodovias
+CCRO.SA,Bens Industriais,Transporte,Exploração de Rodovias
+RPTA.SA,Bens Industriais,Transporte,Exploração de Rodovias
+CRTE.SA,Bens Industriais,Transporte,Exploração de Rodovias
+ASCP.SA,Bens Industriais,Transporte,Exploração de Rodovias
+ECOR.SA,Bens Industriais,Transporte,Exploração de Rodovias
+ECOV.SA,Bens Industriais,Transporte,Exploração de Rodovias
+COLN.SA,Bens Industriais,Transporte,Exploração de Rodovias
+RDVT.SA,Bens Industriais,Transporte,Exploração de Rodovias
+CRBD.SA,Bens Industriais,Transporte,Exploração de Rodovias
+TRIA.SA,Bens Industriais,Transporte,Exploração de Rodovias
+TPIS.SA,Bens Industriais,Transporte,Exploração de Rodovias
+VOES.SA,Bens Industriais,Transporte,Exploração de Rodovias
+AGRU.SA,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+HMOB.SA,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+IVPR.SA,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+PSVM.SA,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+SAIP.SA,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+STBP.SA,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+PORT.SA,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+ATMP.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+BBML.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+DTCY.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+ALPK.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+FLEX.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+GGPS.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+PRNR.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+SEQL.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+VLID.SA,Bens Industriais,Serviços Diversos,Serviços Diversos
+EPAR.SA,Bens Industriais,Comércio,Material de Transporte
+MMAQ.SA,Bens Industriais,Comércio,Material de Transporte
+RBNS.SA,Bens Industriais,Comércio,Material de Transporte
+WLMM.SA,Bens Industriais,Comércio,Material de Transporte
+TTEN.SA,Consumo não Cíclico,Agropecuária,Agricultura
+GRAO.SA,Consumo não Cíclico,Agropecuária,Agricultura
+AGXY.SA,Consumo não Cíclico,Agropecuária,Agricultura
+APTI.SA,Consumo não Cíclico,Agropecuária,Agricultura
+SOJA.SA,Consumo não Cíclico,Agropecuária,Agricultura
+AGRO.SA,Consumo não Cíclico,Agropecuária,Agricultura
+FRTA.SA,Consumo não Cíclico,Agropecuária,Agricultura
+RAIZ.SA,Consumo não Cíclico,Agropecuária,Agricultura
+SLCE.SA,Consumo não Cíclico,Agropecuária,Agricultura
+LAND.SA,Consumo não Cíclico,Agropecuária,Agricultura
+JALL.SA,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+RESA.SA,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+SMTO.SA,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+BRFS.SA,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+BAUH.SA,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+JBSS.SA,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+MRFG.SA,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+BEEF.SA,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+MNPR.SA,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+CAML.SA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+JMCD.SA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+JOPA.SA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+MDIA.SA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+ODER.SA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+ABEV.SA,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+NTCO.SA,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+BOBR.SA,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Limpeza
+ASAI.SA,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+CRFB.SA,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+GMAT.SA,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+PCAR.SA,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+AVLL.SA,Consumo Cíclico,Construção Civil,Incorporações
+CALI.SA,Consumo Cíclico,Construção Civil,Incorporações
+CRDE.SA,Consumo Cíclico,Construção Civil,Incorporações
+CURY.SA,Consumo Cíclico,Construção Civil,Incorporações
+CYRE.SA,Consumo Cíclico,Construção Civil,Incorporações
+DIRR.SA,Consumo Cíclico,Construção Civil,Incorporações
+EVEN.SA,Consumo Cíclico,Construção Civil,Incorporações
+EZTC.SA,Consumo Cíclico,Construção Civil,Incorporações
+GFSA.SA,Consumo Cíclico,Construção Civil,Incorporações
+HBOR.SA,Consumo Cíclico,Construção Civil,Incorporações
+INNT.SA,Consumo Cíclico,Construção Civil,Incorporações
+JHSF.SA,Consumo Cíclico,Construção Civil,Incorporações
+JFEN.SA,Consumo Cíclico,Construção Civil,Incorporações
+KLAS.SA,Consumo Cíclico,Construção Civil,Incorporações
+LAVV.SA,Consumo Cíclico,Construção Civil,Incorporações
+MELK.SA,Consumo Cíclico,Construção Civil,Incorporações
+MTRE.SA,Consumo Cíclico,Construção Civil,Incorporações
+MDNE.SA,Consumo Cíclico,Construção Civil,Incorporações
+MRVE.SA,Consumo Cíclico,Construção Civil,Incorporações
+PDGR.SA,Consumo Cíclico,Construção Civil,Incorporações
+PLPL.SA,Consumo Cíclico,Construção Civil,Incorporações
+RDNI.SA,Consumo Cíclico,Construção Civil,Incorporações
+RSID.SA,Consumo Cíclico,Construção Civil,Incorporações
+TCSA.SA,Consumo Cíclico,Construção Civil,Incorporações
+TEGA.SA,Consumo Cíclico,Construção Civil,Incorporações
+TEND.SA,Consumo Cíclico,Construção Civil,Incorporações
+TRIS.SA,Consumo Cíclico,Construção Civil,Incorporações
+VIVR.SA,Consumo Cíclico,Construção Civil,Incorporações
+CEDO.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CTNM.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+DOHL.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+ECPR.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CATA.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CTKA.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+PTNT.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CTSA.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+SGPS.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+TEKA.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+TXRX.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+TFCO.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Vestuário
+ALPA.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+CAMB.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+GRND.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+VULC.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+MNDL.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+TECN.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+VIVA.SA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+WHRL.SA,Consumo Cíclico,Utilidades Domésticas,Eletrodomésticos
+UCAS.SA,Consumo Cíclico,Utilidades Domésticas,Móveis
+HETA.SA,Consumo Cíclico,Utilidades Domésticas,Utensílios Domésticos
+HOOT.SA,Consumo Cíclico,Hoteis e Restaurantes,Hotelaria
+BKBR.SA,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+MEAL.SA,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+BMKS.SA,Consumo Cíclico,Viagens e Lazer,Bicicletas
+ESTR.SA,Consumo Cíclico,Viagens e Lazer,Brinquedos e Jogos
+AHEB.SA,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+SHOW.SA,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+CVCB.SA,Consumo Cíclico,Viagens e Lazer,Viagens e Turismo
+SMFT.SA,Consumo Cíclico,Viagens e Lazer,Atividades Esportivas
+ANIM.SA,Consumo Cíclico,Diversos,Serviços Educacionais
+BAHI.SA,Consumo Cíclico,Diversos,Serviços Educacionais
+COGN.SA,Consumo Cíclico,Diversos,Serviços Educacionais
+CSED.SA,Consumo Cíclico,Diversos,Serviços Educacionais
+SEER.SA,Consumo Cíclico,Diversos,Serviços Educacionais
+YDUQ.SA,Consumo Cíclico,Diversos,Serviços Educacionais
+RENT.SA,Consumo Cíclico,Diversos,Aluguel de carros
+LCAM.SA,Consumo Cíclico,Diversos,Aluguel de carros
+MSRO.SA,Consumo Cíclico,Diversos,Aluguel de carros
+MOVI.SA,Consumo Cíclico,Diversos,Aluguel de carros
+UNID.SA,Consumo Cíclico,Diversos,Aluguel de carros
+VAMO.SA,Consumo Cíclico,Diversos,Aluguel de carros
+DOTZ.SA,Consumo Cíclico,Diversos,Programas de Fidelização
+ARZZ.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+CEAB.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+CGRA.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+SOMA.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+GUAR.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+LLIS.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+AMAR.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+LREN.SA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+ALLD.SA,Consumo Cíclico,Comércio,Eletrodomésticos
+MGLU.SA,Consumo Cíclico,Comércio,Eletrodomésticos
+VIIA.SA,Consumo Cíclico,Comércio,Eletrodomésticos
+AMER.SA,Consumo Cíclico,Comércio,Produtos Diversos
+ESPA.SA,Consumo Cíclico,Comércio,Produtos Diversos
+SBFG.SA,Consumo Cíclico,Comércio,Produtos Diversos
+LLBI.SA,Consumo Cíclico,Comércio,Produtos Diversos
+PETZ.SA,Consumo Cíclico,Comércio,Produtos Diversos
+LJQQ.SA,Consumo Cíclico,Comércio,Produtos Diversos
+SLED.SA,Consumo Cíclico,Comércio,Produtos Diversos
+BIOM.SA,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+NRTQ.SA,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+OFSA.SA,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+AALR.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+DASA.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+FLRY.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+HAPV.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+PARD.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+KRSA.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+MATD.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+ODPV.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+ONCO.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+QUAL.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+RDOR.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+BALM.SA,Saúde,Equipamentos,Equipamentos
+LMED.SA,Saúde,Equipamentos,Equipamentos
+BLAU.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+DMVF.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+PNVL.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+HYPE.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+PGMN.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+PFRM.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+RADL.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+VVEO.SA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+INTB.SA,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+POSI.SA,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+MLAS.SA,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+BMOB.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+BRQB.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+ENJU.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+NINJ.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+IFCM.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+LWSA.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+CASH.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+MBLY.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+MOSI.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+NGRD.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+PDTC.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+QUSW.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+SQIA.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+TRAD.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+TOTS.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+LVTC.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+WEST.SA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+ALGT.SA,Comunicações,Telecomunicações,Telecomunicações
+BRIT.SA,Comunicações,Telecomunicações,Telecomunicações
+DESK.SA,Comunicações,Telecomunicações,Telecomunicações
+OIBR.SA,Comunicações,Telecomunicações,Telecomunicações
+TELB.SA,Comunicações,Telecomunicações,Telecomunicações
+VIVT.SA,Comunicações,Telecomunicações,Telecomunicações
+TIMS.SA,Comunicações,Telecomunicações,Telecomunicações
+FIQE.SA,Comunicações,Telecomunicações,Telecomunicações
+CNSY.SA,Comunicações,Mídia,Produção e Difusão de Filmes e Programas
+ELMD.SA,Comunicações,Mídia,Publicidade e Propaganda
+AESB.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AESL.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AESO.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AFLT.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ALUP.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CBEE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPTE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEBR.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEED.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EEEL.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CLSC.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+GPAR.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEPE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CMIG.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CMGD.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CMGT.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CESP.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEEB.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+COCE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+COMR.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPLE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CSRN.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPFE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPFG.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPFP.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPRE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EBEN.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EKTR.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ELET.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+LIPR.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EMAE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENBR.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENGI.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENMT.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENER.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENEV.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EGIE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQPA.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQMA.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQTL.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ESCE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+FGEN.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+POWE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+GEPA.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ITPB.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+LIGH.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+LIGT.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+NEOE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+MEGA.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+PALF.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+PRMN.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+REDE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+RNEW.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+STKF.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+STEN.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TAEE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TEPE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TMPE.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TRPL.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+UPKP.SA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AMBP.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+CASN.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+CSMG.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+IGSN.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+ORVR.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+SBSP.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+SAPR.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+SNST.SA,Utilidade Pública,Água e Saneamento,Água e Saneamento
+CEGR.SA,Utilidade Pública,Gás,Gás
+CGAS.SA,Utilidade Pública,Gás,Gás
+PASS.SA,Utilidade Pública,Gás,Gás
+ABCB.SA,Financeiro,Intermediários Financeiros,Bancos
+RPAD.SA,Financeiro,Intermediários Financeiros,Bancos
+BRIV.SA,Financeiro,Intermediários Financeiros,Bancos
+BAZA.SA,Financeiro,Intermediários Financeiros,Bancos
+BMGB.SA,Financeiro,Intermediários Financeiros,Bancos
+BIDI.SA,Financeiro,Intermediários Financeiros,Bancos
+BPAN.SA,Financeiro,Intermediários Financeiros,Bancos
+BGIP.SA,Financeiro,Intermediários Financeiros,Bancos
+BEES.SA,Financeiro,Intermediários Financeiros,Bancos
+BPAR.SA,Financeiro,Intermediários Financeiros,Bancos
+BRSR.SA,Financeiro,Intermediários Financeiros,Bancos
+BRBI.SA,Financeiro,Intermediários Financeiros,Bancos
+BBDC.SA,Financeiro,Intermediários Financeiros,Bancos
+BBAS.SA,Financeiro,Intermediários Financeiros,Bancos
+BSLI.SA,Financeiro,Intermediários Financeiros,Bancos
+BPAC.SA,Financeiro,Intermediários Financeiros,Bancos
+ITSA.SA,Financeiro,Intermediários Financeiros,Bancos
+ITUB.SA,Financeiro,Intermediários Financeiros,Bancos
+BMEB.SA,Financeiro,Intermediários Financeiros,Bancos
+BMIN.SA,Financeiro,Intermediários Financeiros,Bancos
+MODL.SA,Financeiro,Intermediários Financeiros,Bancos
+BNBR.SA,Financeiro,Intermediários Financeiros,Bancos
+NUBR.SA,Financeiro,Intermediários Financeiros,Bancos
+PRBC.SA,Financeiro,Intermediários Financeiros,Bancos
+PINE.SA,Financeiro,Intermediários Financeiros,Bancos
+SANB.SA,Financeiro,Intermediários Financeiros,Bancos
+CRIV.SA,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+FNCN.SA,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+MERC.SA,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+BDLS.SA,Financeiro,Intermediários Financeiros,Soc. Arrendamento Mercantil
+DBEN.SA,Financeiro,Intermediários Financeiros,Soc. Arrendamento Mercantil
+BZRS.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+BSCS.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+WTVR.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+CBSC.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+ECOA.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+GAFL.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+GAIA.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+OCTS.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+PDGS.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+PLSC.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+RBRA.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+APCS.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+VERT.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+WTPI.SA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+BNDP.SA,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+BFRE.SA,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+G2DI.SA,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+GPIV.SA,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+PPLA.SA,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+B3SA.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+BOAS.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+CIEL.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+CLSA.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+CARD.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+GETT.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+STOC.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+XPBR.SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+BRGE.SA,Financeiro,Previdência e Seguros,Seguradoras
+BBSE.SA,Financeiro,Previdência e Seguros,Seguradoras
+CXSE.SA,Financeiro,Previdência e Seguros,Seguradoras
+PSSA.SA,Financeiro,Previdência e Seguros,Seguradoras
+CSAB.SA,Financeiro,Previdência e Seguros,Seguradoras
+SULA.SA,Financeiro,Previdência e Seguros,Seguradoras
+IRBR.SA,Financeiro,Previdência e Seguros,Resseguradoras
+APER.SA,Financeiro,Previdência e Seguros,Corretoras de Seguros e Resseguros
+WIZS.SA,Financeiro,Previdência e Seguros,Corretoras de Seguros e Resseguros
+ALSO.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BRML.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BRPR.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CORR.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CCPR.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+GSHP.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+HBTS.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+HBRE.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+IGBR.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+IGTI.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+LOGG.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+MNZC.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+MULT.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+SCAR.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+SYNE.SA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BBRK.SA,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+LPSB.SA,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+MOAR.SA,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+PEAB.SA,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+SIMH.SA,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+CTBA.SA,Financeiro,Outros Títulos,Outros Títulos
+MCRJ.SA,Financeiro,Outros Títulos,Outros Títulos
+PMSP.SA,Financeiro,Outros Títulos,Outros Títulos
+QVQP.SA,Outros,Outros,Outros
+ATOM.SA,Outros,Outros,Outros
+BLUT.SA,Outros,Outros,Outros
+BETP.SA,Outros,Outros,Outros
+CABI.SA,Outros,Outros,Outros
+CACO.SA,Outros,Outros,Outros
+MAPT.SA,Outros,Outros,Outros
+CMSA.SA,Outros,Outros,Outros
+OPGM.SA,Outros,Outros,Outros
+FIGE.SA,Outros,Outros,Outros
+MGIP.SA,Outros,Outros,Outros
+PPAR.SA,Outros,Outros,Outros
+PRPT.SA,Outros,Outros,Outros
+OPSE.SA,Outros,Outros,Outros
+OPTS.SA,Outros,Outros,Outros
+YBRA.SA,Outros,Outros,Outros
+GNDI.SA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+LAME.SA,Consumo Cíclico,Comércio,Produtos Diversos
+LEVE.SA,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+MYPK.SA,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+PLAS.SA,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
